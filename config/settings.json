@@ -1,0 +1,23 @@
+{
+  "module": "ytmp3-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "extractor": {
+      "enabled": true
+    },
+    "convert": {
+      "enabled": true
+    },
+    "tags": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
