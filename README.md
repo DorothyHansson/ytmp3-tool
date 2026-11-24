@@ -62,3 +62,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: ytmp3-tool, mp3, converter, covers, id3, desktop, playlist, windows, youtube, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+youtube mp3 converter covers id3 desktop playlist windows ytmp3-tool yt-mp3-pro youtube-mp3-converter windows portable prebuilt x64 free download
+related: youtube, mp3, converter, covers, id3, desktop, playlist, windows
